@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI in Small Business Operations
-========================================================
+
 
 In this chapter, we will explore the basics of AI-powered operations and how small businesses can benefit from their use.
 

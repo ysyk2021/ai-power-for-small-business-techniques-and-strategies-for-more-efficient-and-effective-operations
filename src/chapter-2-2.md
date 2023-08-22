@@ -1,5 +1,4 @@
-Types of AI Used for Small Business Operations
-========================================================================================================
+
 
 In this chapter, we will explore the various types of AI tools and technologies that small businesses can use to improve their operations.
 
