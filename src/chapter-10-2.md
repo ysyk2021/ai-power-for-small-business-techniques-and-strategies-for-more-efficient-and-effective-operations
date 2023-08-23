@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the importance of AI ethics and governance in small business operations. We will discuss the potential ethical implications of AI adoption and provide guidance on developing governance frameworks to ensure responsible AI use.
 
 Understanding Ethical Implications of AI Adoption

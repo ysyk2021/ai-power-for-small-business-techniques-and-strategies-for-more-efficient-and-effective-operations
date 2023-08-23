@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) technologies offer new opportunities for small businesses to improve their HR and workplace management practices. From candidate screening to employee engagement, AI-powered tools can help small businesses optimize their HR operations and create a more productive and engaged workforce.
 
 This chapter provides case studies of successful AI implementations in improved HR and workplace management for small businesses.

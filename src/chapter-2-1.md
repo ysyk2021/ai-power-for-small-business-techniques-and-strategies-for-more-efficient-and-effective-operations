@@ -1,5 +1,4 @@
 
-
 In this chapter, we will define AI-powered operations and explore how small businesses can benefit from the use of AI tools and technologies.
 
 Definition of AI-Powered Operations

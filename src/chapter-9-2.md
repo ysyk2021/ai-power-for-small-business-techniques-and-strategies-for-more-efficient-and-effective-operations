@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how small businesses can measure the impact of AI on their operations and identify areas for improvement and refinement.
 
 Establishing Metrics for Measuring AI Impact

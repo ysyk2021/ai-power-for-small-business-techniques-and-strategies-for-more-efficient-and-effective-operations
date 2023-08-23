@@ -1,5 +1,4 @@
 
-
 In today's competitive business landscape, exceptional customer service is crucial to the success of small businesses. Artificial Intelligence (AI) technologies offer new tools and strategies to help small businesses improve their customer service and enhance the overall customer experience.
 
 This chapter provides an overview of some of the most common AI applications for customer service in small businesses.

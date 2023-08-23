@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) technologies offer new opportunities for small businesses to improve their operations and achieve greater efficiency. However, it's important to measure the impact of AI on small business operations to ensure that the technology is delivering its intended benefits.
 
 Establish Clear Metrics and Objectives

@@ -1,5 +1,4 @@
 
-
 Customer service is a crucial aspect of any business. With the rise of AI technology, companies are finding new ways to improve their customer service operations. In this chapter, we will explore some successful case studies of AI implementations in enhanced customer service.
 
 Case study 1: Bank of America
