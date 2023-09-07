@@ -8,3 +8,7 @@ By exploring the opportunities and challenges of AI implementation in small busi
 Whether you are a small business owner looking to streamline your operations or a manager seeking to enhance your team's performance, this book will provide valuable insights into how AI technology can help your business succeed in today's digital age.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
