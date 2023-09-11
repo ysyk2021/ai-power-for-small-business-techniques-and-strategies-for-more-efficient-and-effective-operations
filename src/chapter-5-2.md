@@ -1,5 +1,4 @@
-Chapter: Best Practices for AI Implementation in Demand Forecasting, Supply Chain Optimization, and Order Fulfillment
-=====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
